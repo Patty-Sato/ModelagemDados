@@ -1,8 +1,7 @@
-# ModelagemDados
-Modelagem de Dados
+# Data Modeling
 
-Trata-se de um estudo de caso baseado em um Sistema de Controle de Produtos Vendidos em uma empresa de e-commerce de produtos de informática. A partir da análise das regras de negócio, foi criado um Modelo Lógico e posteriormente Relacional (Físico), com ajustes de nomenclaturas, relacionamentos entre as tabelas, escolhas de chave primária e estrangeira, obrigatoriedade dos atributos, configuração dos tipos de dados e aplicação das constraints unique e check. 
+This is a case study based on a Product Control System sold in an e-commerce company of computer products. From the analysis of the business rules, a Logical Model was created and later a Relational (Physical) one, with adjustments of nomenclatures, relationships between tables, choices of primary and foreign key, attribute requirements, data type settings, and application of unique and check constraints.
 
-Atividade realizada para a disciplina de Relational Database & SQL.
+Activity carried out for the discipline of Relational Database & SQL. 
 <br>
-Aplicação utilizada: Oracle SQL Developer Data Modeler
+Application used: Oracle SQL Developer Data Modeler
